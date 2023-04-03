@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/test-react-snikers/static/css/main.b5c6b89b.css",
-    "main.js": "/test-react-snikers/static/js/main.a48e6292.js",
+    "main.js": "/test-react-snikers/static/js/main.61608d60.js",
     "index.html": "/test-react-snikers/index.html",
     "main.b5c6b89b.css.map": "/test-react-snikers/static/css/main.b5c6b89b.css.map",
-    "main.a48e6292.js.map": "/test-react-snikers/static/js/main.a48e6292.js.map"
+    "main.61608d60.js.map": "/test-react-snikers/static/js/main.61608d60.js.map"
   },
   "entrypoints": [
     "static/css/main.b5c6b89b.css",
-    "static/js/main.a48e6292.js"
+    "static/js/main.61608d60.js"
   ]
 }
