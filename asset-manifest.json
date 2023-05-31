@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/test-react-snikers/static/css/main.f2cc9b1c.css",
-    "main.js": "/test-react-snikers/static/js/main.76cfabd2.js",
+    "main.css": "/test-react-snikers/static/css/main.3bfb0cd4.css",
+    "main.js": "/test-react-snikers/static/js/main.d38cc94b.js",
     "static/media/bannerImg.jpg": "/test-react-snikers/static/media/bannerImg.d14dd936ba0683af0dd4.jpg",
     "static/media/logo.svg": "/test-react-snikers/static/media/logo.dd4e1c171c8fb40cd47b691265c99cae.svg",
     "static/media/drawerBox.svg": "/test-react-snikers/static/media/drawerBox.55fe8e379f3163297f98dfd7eef7cdd2.svg",
@@ -12,11 +12,11 @@
     "static/media/Like.svg": "/test-react-snikers/static/media/Like.36b0297aa48d897d14d2989b98395ee4.svg",
     "index.html": "/test-react-snikers/index.html",
     "static/media/Chest.svg": "/test-react-snikers/static/media/Chest.a4c35ddbacd9564e07efd7494cfde80d.svg",
-    "main.f2cc9b1c.css.map": "/test-react-snikers/static/css/main.f2cc9b1c.css.map",
-    "main.76cfabd2.js.map": "/test-react-snikers/static/js/main.76cfabd2.js.map"
+    "main.3bfb0cd4.css.map": "/test-react-snikers/static/css/main.3bfb0cd4.css.map",
+    "main.d38cc94b.js.map": "/test-react-snikers/static/js/main.d38cc94b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2cc9b1c.css",
-    "static/js/main.76cfabd2.js"
+    "static/css/main.3bfb0cd4.css",
+    "static/js/main.d38cc94b.js"
   ]
 }
